@@ -1,2 +1,3 @@
 init
-change1.txt
+change1
+change2
